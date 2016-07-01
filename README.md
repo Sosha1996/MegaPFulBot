@@ -15,6 +15,7 @@ Join to Our Group: [PowerfulBot Support](https://telegram.me/joinchat/Cxxg3T-iPy
 
 
 # Our Team:
+
 [Allen]: Manager and Developer (https://github.com/Dragon-Born) ([Telegram](https://telegram.me/dragon_born))
 
 [Sosha]: Executive and Developer (https://github.com/Sosha1996) ([Telegram](https://telegram.me/Soshow))
