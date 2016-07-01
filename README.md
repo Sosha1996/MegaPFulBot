@@ -4,7 +4,7 @@ Mega Powerful AntiSpam Telegram CLI Bot Based on TeleSeed Bot
 
 # Support and development
 
-Follow us in [@GPMod](https://telegram.me/GPMod) in Telegram Channel
+Follow us [@GPMod](https://telegram.me/GPMod) in Telegram Channel
 and
 Join to Our Group: [PowerfulBot Support](https://telegram.me/joinchat/Cxxg3T-iPydwSuWb6D01Nw)
 
