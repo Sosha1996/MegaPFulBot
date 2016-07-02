@@ -16,11 +16,14 @@ Join to Our Group: [PowerfulBot Support](https://telegram.me/joinchat/Cxxg3T-iPy
 
 # Our Team:
 
-[Allen]: Manager and Developer (https://github.com/Dragon-Born) ([Telegram](https://telegram.me/dragon_born))
+Manager and Developer:
+[Allen](https://github.com/Dragon-Born) ([Telegram](https://telegram.me/dragon_born))
 
-[Sosha]: Executive and Developer (https://github.com/Sosha1996) ([Telegram](https://telegram.me/Soshow))
+Executive and Developer:
+[Sosha](https://github.com/Sosha1996) ([Telegram](https://telegram.me/Soshow))
 
-[Amir]: Admin ([Telegram](https://telegram.me/amirho3ein911))
+Admin:
+Amir([Telegram](https://telegram.me/amirho3ein911))
 
 
 ### Our Telegram channel:
