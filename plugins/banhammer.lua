@@ -135,7 +135,7 @@ local function kick_ban_res(extra, success, result)
 			send_large_msg(receiver, "شما نمیتوانید ادمین ربات/ صاحب گروه/مدیر را بن کنید!")
 			return
         end
-        send_large_msg(receiver, 'کاربر @'..member..' ['..member_id..'] آن بن شد (Unbanned)')
+        send_large_msg(receiver, 'کاربر @'..member..' ['..member_id..'] بن شد  (banned)')
 		ban_user(member_id, chat_id)
       elseif get_cmd == 'unban' then
         send_large_msg(receiver, 'کاربر @'..member..' ['..member_id..'] آن بن شد (Unbanned)')
